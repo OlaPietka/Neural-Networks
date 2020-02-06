@@ -1,6 +1,6 @@
 # Neural Networks
 ## Description
-In this project I implemented two neural networks to teach them addition. 
+In this project I implemented two neural networks to teach them addition.  
 
 #### File neural_network1.py
 Contains imple network with two neurons on input layer, one hidden layer and output layer with one neuron (which is  the output of the equation).  
