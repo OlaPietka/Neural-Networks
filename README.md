@@ -10,4 +10,6 @@ Contains imple network with two neurons on input layer, one hidden layer and out
 
 #### File neural_network2.py
 Contains more complicated network because of weights memorization, alfa parameter and additional neuron called bias.  
-![Image](https://i.imgur.com/ZXjTsm8.png)
+<p align="center">
+  <img width="460" height="300" src="https://i.imgur.com/ZXjTsm8.png">
+</p>
